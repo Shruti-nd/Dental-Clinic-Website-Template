@@ -109,6 +109,14 @@ This allows the template to be reused for multiple dental clinics.
 
 ---
 
+## Copyright
+
+© 2026 Shruti Jain. All Rights Reserved.
+
+This project is proprietary and may not be copied, redistributed, or used without permission.
+
+---
+
 # 👩‍💻 Author
 
 Created by **Shruti Jain**
