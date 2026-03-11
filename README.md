@@ -90,7 +90,6 @@ Your site will be live in seconds.
 Images used in the demo are sourced from free stock platforms such as:
 
 * Unsplash
-* Pexels
 
 These can be replaced with actual clinic photos.
 
@@ -107,12 +106,6 @@ To customize for a specific dental clinic update:
 * Services offered
 
 This allows the template to be reused for multiple dental clinics.
-
----
-
-# 📜 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
